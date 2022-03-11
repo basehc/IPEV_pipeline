@@ -1,3 +1,4 @@
+```
 .
 ├── work_home/
 │   ├── data_all/
@@ -21,3 +22,6 @@
 │   ├── core
 │   └── sratoolkit.2.11.0-ubuntu64
 └── bacterial_sequence_reference
+
+```
+
